@@ -1,0 +1,15 @@
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\bin\Debug\net6.0\Hw05-1.exe
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\bin\Debug\net6.0\Hw05-1.deps.json
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\bin\Debug\net6.0\Hw05-1.runtimeconfig.json
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\bin\Debug\net6.0\Hw05-1.dll
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\bin\Debug\net6.0\ref\Hw05-1.dll
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\bin\Debug\net6.0\Hw05-1.pdb
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\Hw05-1.csproj.AssemblyReference.cache
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\Hw05-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\Hw05-1.AssemblyInfoInputs.cache
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\Hw05-1.AssemblyInfo.cs
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\Hw05-1.csproj.CoreCompileInputs.cache
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\Hw05-1.dll
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\ref\Hw05-1.dll
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\Hw05-1.pdb
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-1\Hw05-1\obj\Debug\net6.0\Hw05-1.genruntimeconfig.cache

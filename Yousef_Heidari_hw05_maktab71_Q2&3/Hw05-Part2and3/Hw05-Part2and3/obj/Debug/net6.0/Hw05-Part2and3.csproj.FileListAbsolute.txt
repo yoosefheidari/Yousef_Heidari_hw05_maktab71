@@ -1,0 +1,15 @@
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\Hw05-Part2and3.csproj.AssemblyReference.cache
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\Hw05-Part2and3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\Hw05-Part2and3.AssemblyInfoInputs.cache
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\Hw05-Part2and3.AssemblyInfo.cs
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\Hw05-Part2and3.csproj.CoreCompileInputs.cache
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\bin\Debug\net6.0\Hw05-Part2and3.exe
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\bin\Debug\net6.0\Hw05-Part2and3.deps.json
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\bin\Debug\net6.0\Hw05-Part2and3.runtimeconfig.json
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\bin\Debug\net6.0\Hw05-Part2and3.dll
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\bin\Debug\net6.0\ref\Hw05-Part2and3.dll
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\bin\Debug\net6.0\Hw05-Part2and3.pdb
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\Hw05-Part2and3.dll
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\ref\Hw05-Part2and3.dll
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\Hw05-Part2and3.pdb
+C:\Users\Yousef1371\Desktop\Jalasat maktab\tamarin\5\Hw05-Part2and3\Hw05-Part2and3\Hw05-Part2and3\obj\Debug\net6.0\Hw05-Part2and3.genruntimeconfig.cache
